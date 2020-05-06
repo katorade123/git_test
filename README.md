@@ -1,1 +1,1 @@
-This is katorade123's first git project!"
+This is katorade123's first git project!
